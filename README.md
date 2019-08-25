@@ -20,7 +20,7 @@ This website is meant to be used as both a supplement and a complement to my CV/
 
 ## Copyrights and License
 
-Copyright 2019 Michael Taylor. Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
+Copyright 2019 Michael Taylor (Website Content). Copyright 2013-2019 Blackrock Digital LLC (Website Template). Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-freelancer/blob/gh-pages/LICENSE) license.
 
 ## Acknowledgments
 
