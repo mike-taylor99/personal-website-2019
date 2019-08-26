@@ -1,6 +1,6 @@
 # Michael Taylor - Personal Website
 
-This website is meant to be used as both a supplement and a complement to my CV/Resume. My website can be accessed at: ---
+This website is meant to be used as both a supplement and a complement to my CV/Resume. My website can be accessed at: [mtylr.com](mtylr.com)
 
 ## Built With
 
